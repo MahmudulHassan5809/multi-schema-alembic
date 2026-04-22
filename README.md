@@ -1,8 +1,7 @@
-**README snippet** with your Alembic CLI commands using `Typer`:
-
----
 
 ## 🛠️ Alembic Migration Commands
+
+### Blog: https://www.linkedin.com/pulse/complete-guide-multi-tenant-postgresql-schema-using-alembic-hassan-aeync
 
 ### 🔄 Reset Database
 
